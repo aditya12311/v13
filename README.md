@@ -39,6 +39,14 @@ Click the deploy icon below !
 > npm start
 ```
 
+## Vps
+> sudo -s untuk membuka akses root
+> sudo apt update && apt upgrade
+> sudo apt install nodejs 
+> apt install ffmpeg
+> ya kurang lebih sama kek termux  ya
+> '''
+
 ## settings
 Edit Nomor Owner DLL `'./settings/setting.json'`
 
